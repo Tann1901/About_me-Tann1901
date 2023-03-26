@@ -7,9 +7,9 @@ Connect with me here:
 
 ## Technology
 ![Python](https://img.shields.io/badge/-Python-informational?style=flat-square&logo=Python&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-informational?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-9cf?style=flat-square&logo=mysql&logoColor=white)
 ![PowerBi](https://img.shields.io/badge/-Powerbi-yellow?style=flat-square&logo=PowerBi&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-informational?style=flat-square&logo=Tableau&logoColor=informational)
+![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat-square&logo=Tableau&logoColor=white)
 
 
 
